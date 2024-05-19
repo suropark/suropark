@@ -25,6 +25,7 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/ton-0098EA?style=for-the-badge&logo=TON&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Bitcoin-f7931a?style=for-the-badge&logo=bitcoin&logoColor=white" />&nbsp
@@ -52,6 +53,10 @@
 <!--   <a href="https://velog.io/@oka1313">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a> -->
+   <a href="https://www.linkedin.com/in/suro-park-570716275/">
+    <img
+      src="https://img.shields.io/badge/Noah,Park-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp
+  </a>
   <a href="https://t.me/noahkokor">
     <img
       src="https://img.shields.io/badge/Noah,Park-26a5e4?style=for-the-badge&logo=telegram&logoColor=white"/>&nbsp
